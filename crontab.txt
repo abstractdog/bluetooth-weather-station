@@ -1,1 +1,2 @@
-*/5 * * * * python3 read_and_load_attributes.py
+*/5 * * * * python3 ~/Applications/bluetooth-weather-station/read_and_load_attributes.py
+0 * * * * ~/Applications/bluetooth-weather-station/backup_influx_data.sh
